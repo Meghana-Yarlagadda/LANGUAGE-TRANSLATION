@@ -4,7 +4,7 @@ import streamlit as st
 from transformers import pipeline
 
 # Set app title
-st.title("🌐 :rainbow:[Language Translation App]")
+st.title("🌐 :rainbow[Language Translation App]")
 
 # Define a list of supported languages
 languages = ["en", "fr", "de", "es", "it", "pt", "ro", "nl", "pl", "ru", "zh", "ja", "ar","hi"]
